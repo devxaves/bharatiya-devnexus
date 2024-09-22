@@ -35,65 +35,46 @@ For Reviving India’s Native ArtStyle and
 Helping Indie Rural Artisans & Sellers Get into the MODERN MARKET
 
 
+> [!NOTE]  
+> The Platform with all its features is LIVE DEPLOYED! Find Live Link in Repository description.
+
 ## Features
 
 - **MARKETPLACE -** A Marketplace for Buying authentic Indian products listed by Artists from our Platform, to get their NFTs on the user's wallet for AUTHENTICITY.
 - **COMMUNITY -** A community of Global Customers for meeting their needs of Traditional/Ethnic/Handicrafts/Artworks.
-- **MARKETPLACE -** A Marketplace for Buying authentic Indian products listed by Artists from our Platform, to get their NFTs on the user's wallet for AUTHENTICITY.
-- **COMMUNITY -** A community of Global Customers for meeting their needs of Traditional/Ethnic/Handicrafts/Artworks.
-- **Digitalizing the hidden and extinct Artforms of rural India**
-- **Uplifting Artists by directly initiating purchase between artist and buyer**
-- **Attracting a huge target audience through LOYALTY System and MORE SECURE Blockchain Network**
+- **INVENTORY MANAGEMENT -** A complete MERN stack Inventory Management system for the Admin and Logistics side.
+- **ANDROID APP -** A community of Global Customers for meeting their needs of Traditional/Ethnic/Handicrafts/Artworks.
+- Digitalizing the hidden and extinct Artforms of rural India
+- Uplifting Artists by directly initiating purchase between artist and buyer
+- Attracting a huge target audience through LOYALTY System and MORE SECURE Blockchain Network
 - **Seamless user experience:** Simple registration and interaction with the dApp through an intuitive React interface.
 - **Secure tokenization:** Tokenized rewards are stored on a blockchain, guaranteeing immutability and transparency.
 - **Flexible redemption options:** Users can redeem tokens for various rewards or trade them on decentralized exchanges.
 - **Programmable loyalty rules:** Artists can customize the earning and redemption criteria for their tokens.
 
 
-## Technologies Implemented
-
-- **Diamente Blockchain Network**
-- **Alchemy API** 
-- **Hardhat** 
+## Technologies Used
+ 
+- **Polygon Blockchain Network** 
 - **Solidity**
 - **React JS** 
 - **Tailwind CSS** 
 - **IPFS Pinata Server**
 - **Metamask**
+- **MongoDB**
+- **Express JS**
+- **Node JS**
+- **Redux**
 
 
 ## Resources Used
 
-- **Diamente Blockchain Documentation and Tutorials**
-- **Alchemy API Documentation** 
-- **Hardhat Documentation** 
+- **Polygon Network Documentation** 
 - **Solidity Resources**
 - **React JS Documentation** 
 - **Tailwind CSS Documentation** 
 - **IPFS Pinata Documentation**
 - **Metamask Documentation**
-
-
-## Getting Started 
-
-We've streamlined the setup process for the hackathon:
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/devxaves/ArtChain.git
-   
-2. **Install dependencies:**
-
-   ```bash
-   npm i
-
-3. **Setup your environment:**
-
-4. **Run the DApp:**
-
-   ```bash
-   npm start
 
 
 
