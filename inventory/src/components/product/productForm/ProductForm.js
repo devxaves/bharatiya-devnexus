@@ -19,25 +19,6 @@ const ProductForm = ({
     <div className="add-product">
       <Card cardClass={"card"}>
         <form onSubmit={saveProduct}>
-          <Card cardClass={"group"}>
-            <label>Product Image</label>
-            <code className="--color-dark">
-              Supported Formats: jpg, jpeg, png
-            </code>
-            <input
-              type="file"
-              name="image"
-              onChange={(e) => handleImageChange(e)}
-            />
-
-            {imagePreview != null ? (
-              <div className="image-preview">
-                <img src={imagePreview} alt="product" />
-              </div>
-            ) : (
-              <p>No image set for this poduct.</p>
-            )}
-          </Card>
           <label>Product Name:</label>
           <input
             type="text"
