@@ -31,7 +31,7 @@ const Top = () => {
             <div className='profil'>
                 <div>
                   <h2 className='boxname'>OUR PERSONALIZED BOXES</h2>
-                  <p className='p__font1'>The Beautiful Crafted Boxes of Bharatiya brings Happiness</p>
+                  <p className='p__font1'>The Beautiful Crafted Boxes of BharatSe brings Happiness</p>
                   <p className='p__font1'>Across the world</p>
                 </div>
             </div>
